@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dff9f40d-b901-453b-91b9-64bb990490d9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1pG0Lrl94emufvPxlJlXjlY62Jp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Java\Cloud_2\CloudStorage-master\client" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Client">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="client.Client" />
+      <module name="CloudStorage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="server.Server" />
+      <module name="CloudStorage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Server" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dff9f40d-b901-453b-91b9-64bb990490d9" name="Default Changelist" comment="" />
+      <created>1614794068285</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614794068285</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1544" height="177" key="GridCell.Tab.0.bottom" timestamp="1615212280155">
+      <screen x="0" y="0" width="1600" height="852" />
+    </state>
+    <state width="1544" height="177" key="GridCell.Tab.0.bottom/0.0.1600.852@0.0.1600.852" timestamp="1615212280155" />
+    <state width="1544" height="177" key="GridCell.Tab.0.center" timestamp="1615212280155">
+      <screen x="0" y="0" width="1600" height="852" />
+    </state>
+    <state width="1544" height="177" key="GridCell.Tab.0.center/0.0.1600.852@0.0.1600.852" timestamp="1615212280155" />
+    <state width="1544" height="177" key="GridCell.Tab.0.left" timestamp="1615212280155">
+      <screen x="0" y="0" width="1600" height="852" />
+    </state>
+    <state width="1544" height="177" key="GridCell.Tab.0.left/0.0.1600.852@0.0.1600.852" timestamp="1615212280155" />
+    <state width="1544" height="177" key="GridCell.Tab.0.right" timestamp="1615212280155">
+      <screen x="0" y="0" width="1600" height="852" />
+    </state>
+    <state width="1544" height="177" key="GridCell.Tab.0.right/0.0.1600.852@0.0.1600.852" timestamp="1615212280155" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CloudStorage$Client.ic" NAME="Client Coverage Results" MODIFIED="1615120879899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>client.*</FILTER>
+    </SUITE>
+  </component>
+</project>
